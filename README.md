@@ -12,12 +12,28 @@
 
 ## 🚀 Featured Project
 
-### DIVINITY Website
+### 🌐 DIVINITY Website
+A modern developer portfolio showcasing my skills, projects, and journey into Full Stack Development.
 
-A personal developer portfolio built to showcase my skills, projects, and journey.
+🔗 Live Demo: https://devdivinity.netlify.app
 
-🌐 Live: https://devdivinity.netlify.app
+✨ Features:
+- Responsive design
+- Modern UI/UX
+- Interactive animations
+- Mobile friendly
 
+
+### 💻 Ovitech Hub
+A technology-focused website built to deliver a clean digital experience with modern design and functionality.
+
+🔗 Live Demo: https://ovitechhub.netlify.app
+
+✨ Features:
+- Responsive layout
+- User-friendly interface
+- Modern web development practices
+- Optimized performance
 ## 🛠️ Tech Stack
 
 Frontend:
