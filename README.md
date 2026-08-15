@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Divine
 
-<!--
-**divinity-io/divinity-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a Full Stack Developer in progress, passionate about creating modern and impactful digital experiences.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend Development
+- Backend Development
+- Databases
+- APIs
+- Web Security
+
+## 🚀 Featured Project
+
+### DIVINITY Website
+
+A personal developer portfolio built to showcase my skills, projects, and journey.
+
+🌐 Live: https://devdivinity.netlify.app
+
+## 🛠️ Tech Stack
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Currently exploring:
+- React
+- Node.js
+- Express
+- Databases
+
+## 🎯 Goal
+
+To become a skilled Full Stack Developer and build secure, scalable, and meaningful applications.
+
+## 📫 Connect
+
+GitHub: https://github.com/divinity-io
+Website: https://devdivinity.netlify.app
