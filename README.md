@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ DIVINITY
+#  ＤＩＶＩＮＩＴＹ
 
 ### 🚀 Full Stack Developer • Cybersecurity • Builder
 
