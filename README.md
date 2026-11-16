@@ -1,139 +1,128 @@
 <div align="center">
 
-# `DIVINITY`
+<a href="https://www.devdivinity.com.ng">
+  <img src="https://www.devdivinity.com.ng/assets/images/Portfolio.webp" width="100%" alt="Divinity — Developer Portfolio">
+</a>
 
-### Cybersecurity Student | Aspiring Application Security Engineer | Developer
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-APPLICATION_SECURITY-18C3F8?style=for-the-badge&logo=owasp&logoColor=white">
-  <img src="https://img.shields.io/badge/BUILDING-SECURE_SOFTWARE-CCBCBC?style=for-the-badge&logo=code&logoColor=323039">
-</p>
+# DIVINITY
 
-<p>
-  <img src="https://img.shields.io/github/followers/divinity-io?style=flat-square&logo=github&label=Followers">
-  <img src="https://img.shields.io/github/stars/divinity-io?style=flat-square&logo=github&label=Stars">
-</p>
+### SOFTWARE DEVELOPER · CYBERSECURITY STUDENT
 
-**Code First. Security Always. Impact Forever.**
+**Building digital experiences. Exploring security. Engineering solutions.**
 
-[Portfolio](https://www.devdivinity.com.ng) • [GitHub](https://github.com/divinity-io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18C3F8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.devdivinity.com.ng)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divinity-io)
+
+<br>
+
+`Code First. Security Always. Impact Forever.`
 
 </div>
 
 ---
 
-## `$ whoami`
+## 01 / PROFILE
 
 I'm **Divinity**, a Cyber Security undergraduate at the Federal University of Technology, Owerri (FUTO), Nigeria.
 
-I'm passionate about understanding how software works, identifying security weaknesses, and building digital solutions with security in mind.
+I enjoy building for the web, understanding how applications work, and exploring the intersection of software engineering and cybersecurity.
 
-My journey combines software development with cybersecurity, with a growing focus on **Application Security (AppSec)** and secure software engineering.
+My interests include modern web technologies, clean code, application security, and building useful digital products.
 
-I believe security should be considered from the beginning of development, not added as an afterthought.
+I believe good software should be functional, maintainable, accessible, and secure.
 
 ---
 
-## `$ cat current-focus.txt`
+## 02 / TECHNOLOGY
 
+**Languages & Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript and Python">
+</p>
+
+**Tools & Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,termux,vscode,cloudflare" alt="Git, GitHub, Linux, Termux, VS Code and Cloudflare">
+</p>
+
+**Currently developing my skills in**
+
+- JavaScript and application development
+- Backend development and databases
 - Application Security (AppSec)
-- Web application security
-- JavaScript and backend development
-- Secure coding practices
-- Vulnerability assessment and penetration testing
-- Linux environments and developer tooling
+- Secure coding and web application security
+- Linux and developer tooling
 
 ---
 
-## `$ ls ./projects`
+## 03 / SELECTED WORK
 
-### 01. Divinity Portfolio
+### 01. Divinity — Personal Portfolio
 
-My personal developer and cybersecurity portfolio.
+My personal website showcasing my developer identity, work, and interests in technology and cybersecurity.
 
-**Tech:** HTML5 · CSS3 · JavaScript · Cloudflare Pages · Cloudflare Workers · Cloudflare D1
+**Stack:** HTML · CSS · JavaScript · Cloudflare
 
-[Visit Website](https://www.devdivinity.com.ng)
+[VIEW LIVE WEBSITE →](https://www.devdivinity.com.ng)
 
-### 02. DiviCore
-
-A Python-powered Telegram assistant designed to provide useful digital tools and everyday services.
-
-**Tech:** Python · Telegram Bot API · Supabase
-
-### 03. Ovitech Hub
+### 02. Ovitech Hub
 
 A technology-focused web project built around a clean interface and responsive user experience.
 
-**Tech:** HTML5 · CSS3 · JavaScript
+**Stack:** HTML · CSS · JavaScript
 
-[Visit Website](https://ovitechhub.netlify.app)
-
----
-
-## `$ tech --stack`
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript">
-</p>
-
-**Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,supabase,sqlite" alt="Python, Supabase and SQLite">
-</p>
-
-**Cloud & Infrastructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare">
-</p>
-
-**Development Environment**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,termux" alt="Linux, Git, GitHub and Termux">
-</p>
+[VIEW PROJECT →](https://ovitechhub.netlify.app)
 
 ---
 
-## `$ security-mindset`
+## 04 / ENGINEERING PRINCIPLES
 
-- Build with security in mind.
-- Understand vulnerabilities before attempting to fix them.
-- Practice responsible security research.
-- Keep learning, testing and improving.
-- Write clean, maintainable code.
+```text
+01. Write clean and maintainable code.
+02. Understand before implementing.
+03. Build with security in mind.
+04. Learn continuously.
+05. Create technology that makes an impact.
+```
 
 ---
 
-## `$ github --stats`
+## 05 / GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=divinity-io&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=divinity-io&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Divinity GitHub statistics">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=divinity-io&theme=transparent&hide_border=true" alt="GitHub contribution streak">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=divinity-io&theme=transparent&hide_border=true" alt="GitHub contribution streak">
+
+<img src="https://img.shields.io/github/followers/divinity-io?style=flat-square&logo=github&label=Followers">
+<img src="https://img.shields.io/github/stars/divinity-io?style=flat-square&logo=github&label=Stars">
 
 </div>
 
 ---
 
-## `$ connect`
-
-<p align="center">
-  <a href="https://github.com/divinity-io">
-    <img src="https://img.shields.io/badge/GitHub-divinity--io-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.devdivinity.com.ng">
-    <img src="https://img.shields.io/badge/Portfolio-devdivinity.com.ng-18C3F8?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-</p>
+## 06 / CONNECT
 
 <div align="center">
 
-### `END OF TRANSMISSION`
+<a href="https://www.devdivinity.com.ng">
+  <img src="https://img.shields.io/badge/WEBSITE-devdivinity.com.ng-18C3F8?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://github.com/divinity-io">
+  <img src="https://img.shields.io/badge/GITHUB-divinity--io-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-**Building. Learning. Securing. Impacting.**
+<br><br>
 
-*Code First. Security Always. Impact Forever.*
+**DIVINITY**
+
+*Building with purpose. Learning with intent. Engineering for impact.*
+
+`END OF TRANSMISSION`
 
 </div>
