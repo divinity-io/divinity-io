@@ -1,128 +1,161 @@
 <div align="center">
 
-<a href="https://www.devdivinity.com.ng">
-  <img src="https://www.devdivinity.com.ng/assets/images/Portfolio.webp" width="100%" alt="Divinity — Developer Portfolio">
-</a>
+#  ＤＩＶＩＮＩＴＹ
 
-<br>
+### 🚀 Full Stack Developer • Cybersecurity • Builder
 
-# DIVINITY
+<p>
+  <img src="https://img.shields.io/badge/Developer-Full%20Stack-7c3aed?style=for-the-badge&logo=code&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-06b6d4?style=for-the-badge&logo=web&logoColor=white">
+  <img src="https://img.shields.io/badge/Interest-Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white">
+</p>
 
-### SOFTWARE DEVELOPER · CYBERSECURITY STUDENT
+<p>
+  <img src="https://img.shields.io/github/followers/divinity-io?style=flat-square&logo=github&label=Followers">
+  <img src="https://img.shields.io/github/stars/divinity-io?style=flat-square&logo=github&label=Stars">
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-success?style=flat-square">
+</p>
 
-**Building digital experiences. Exploring security. Engineering solutions.**
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18C3F8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.devdivinity.com.ng)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divinity-io)
-
-<br>
-
-`Code First. Security Always. Impact Forever.`
+**Code First. Security Always. Impact Forever.**
 
 </div>
 
 ---
 
-## 01 / PROFILE
+## 👋 Hi, I'm Divinity
 
-I'm **Divinity**, a Cyber Security undergraduate at the Federal University of Technology, Owerri (FUTO), Nigeria.
+I'm a **Full Stack Developer in progress**, passionate about creating modern, responsive, and impactful digital experiences.
 
-I enjoy building for the web, understanding how applications work, and exploring the intersection of software engineering and cybersecurity.
-
-My interests include modern web technologies, clean code, application security, and building useful digital products.
-
-I believe good software should be functional, maintainable, accessible, and secure.
+I'm constantly learning, experimenting, building projects, and improving my development skills.
 
 ---
 
-## 02 / TECHNOLOGY
+## 🌱 Currently Learning
 
-**Languages & Web**
+- 🎨 Frontend Development
+- ⚙️ Backend Development
+- 🗄️ Databases
+- 🔌 APIs
+- 🔐 Web Security
+- 🧠 Software Architecture
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 DIVINITY Website
+
+A modern developer portfolio showcasing my skills, projects, and journey into Full Stack Development.
+
+🔗 **Live Demo:**
+https://devdivinity.netlify.app
+
+✨ **Features**
+
+- 📱 Responsive design
+- 🎨 Modern UI/UX
+- ⚡ Interactive animations
+- 📲 Mobile friendly
+- 🚀 Fast and optimized
+
+---
+
+### 💻 Ovitech Hub
+
+A technology-focused website built to deliver a clean digital experience with modern design and functionality.
+
+🔗 **Live Demo:**
+https://ovitechhub.netlify.app
+
+✨ **Features**
+
+- 📱 Responsive layout
+- 🎯 User-friendly interface
+- 🛠️ Modern web development practices
+- ⚡ Optimized performance
+- 💻 Clean and modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript and Python">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-**Tools & Environment**
+- HTML
+- CSS
+- JavaScript
+
+### ⚡ Currently Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,termux,vscode,cloudflare" alt="Git, GitHub, Linux, Termux, VS Code and Cloudflare">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase" />
 </p>
 
-**Currently developing my skills in**
+- React
+- Node.js
+- Express
+- Databases
+- APIs
 
-- JavaScript and application development
-- Backend development and databases
-- Application Security (AppSec)
-- Secure coding and web application security
-- Linux and developer tooling
+### 🔐 Security & Development
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,python,termux" />
+</p>
 
-## 03 / SELECTED WORK
-
-### 01. Divinity — Personal Portfolio
-
-My personal website showcasing my developer identity, work, and interests in technology and cybersecurity.
-
-**Stack:** HTML · CSS · JavaScript · Cloudflare
-
-[VIEW LIVE WEBSITE →](https://www.devdivinity.com.ng)
-
-### 02. Ovitech Hub
-
-A technology-focused web project built around a clean interface and responsive user experience.
-
-**Stack:** HTML · CSS · JavaScript
-
-[VIEW PROJECT →](https://ovitechhub.netlify.app)
+- Git & GitHub
+- Linux / Termux
+- Python
+- Web Security
+- Development Tools
 
 ---
 
-## 04 / ENGINEERING PRINCIPLES
+## 🎯 Goal
 
-```text
-01. Write clean and maintainable code.
-02. Understand before implementing.
-03. Build with security in mind.
-04. Learn continuously.
-05. Create technology that makes an impact.
-```
+To become a highly skilled **Full Stack Developer** capable of building secure, scalable, and meaningful applications.
+
+> **Code First. Security Always. Impact Forever.**
 
 ---
 
-## 05 / GITHUB ACTIVITY
+## 📊 GitHub
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=divinity-io&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Divinity GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=divinity-io&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=divinity-io&theme=transparent&hide_border=true" alt="GitHub contribution streak">
-
-<img src="https://img.shields.io/github/followers/divinity-io?style=flat-square&logo=github&label=Followers">
-<img src="https://img.shields.io/github/stars/divinity-io?style=flat-square&logo=github&label=Stars">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=divinity-io&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 06 / CONNECT
+## 🌐 Connect
+
+<p>
+  <a href="https://github.com/divinity-io">
+    <img src="https://img.shields.io/badge/GitHub-divinity--io-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p>
+  🌐 <strong>Website:</strong><br>
+  https://devdivinity.netlify.app
+</p>
+
+---
 
 <div align="center">
 
-<a href="https://www.devdivinity.com.ng">
-  <img src="https://img.shields.io/badge/WEBSITE-devdivinity.com.ng-18C3F8?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="https://github.com/divinity-io">
-  <img src="https://img.shields.io/badge/GITHUB-divinity--io-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+### ⚡ DIVINITY
 
-<br><br>
+**Building. Learning. Securing. Impacting.**
 
-**DIVINITY**
-
-*Building with purpose. Learning with intent. Engineering for impact.*
-
-`END OF TRANSMISSION`
+⭐ If you find my projects useful, consider giving them a star.
 
 </div>
